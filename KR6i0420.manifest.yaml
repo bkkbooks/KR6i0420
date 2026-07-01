@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6i0420/v1
+canonical_location: https://kanripo.org/bkk/KR6i0420/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 六趣輪迴經
+  identifiers:
+    alt_id:
+    - T17n0726
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0726.xml
+    old_id: T17n0726
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0420_000.yaml, hash: 'sha256:70ec4e4365d2e6ad25f6a98f30eb709f7434153e757db90eaf06f1ef791c0e3b'}
+  - {seq: 1, filename: KR6i0420_001.yaml, hash: 'sha256:a1cc16dcf5f786dd85a38102e26e119a87190555ecdaaacd9d659cf2a4098ef9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0420_001.markers.yaml, hash: 'sha256:23b9d92cc60fcbbc97afe0a31e895eefc0dbad0a7eb8e1fc926247e7ea3b33e9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0420_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2095
+  label: 六趣輪迴經
+  type: juan
+  level: 1
+hash: sha256:92b9f90919d5334a97b98e7edff2b5bf6b83fca4a470b7ddef26f9544e5cd48c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

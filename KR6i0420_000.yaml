@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0420/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六趣輪迴經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0726.xml
+    old_id: T17n0726
+hash: sha256:70ec4e4365d2e6ad25f6a98f30eb709f7434153e757db90eaf06f1ef791c0e3b
