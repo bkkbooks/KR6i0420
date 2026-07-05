@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0420_000.yaml, hash: 'sha256:70ec4e4365d2e6ad25f6a98f30eb709f7434153e757db90eaf06f1ef791c0e3b'}
-  - {seq: 1, filename: KR6i0420_001.yaml, hash: 'sha256:a1cc16dcf5f786dd85a38102e26e119a87190555ecdaaacd9d659cf2a4098ef9'}
+  - {seq: 1, filename: KR6i0420_001.yaml, hash: 'sha256:4270ce5055ff555867ffde77baad8c1b858e0fb38afc1bb043826688e2141dcf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0420_001.markers.yaml, hash: 'sha256:23b9d92cc60fcbbc97afe0a31e895eefc0dbad0a7eb8e1fc926247e7ea3b33e9'}
+  - {seq: 0, role: markers, filename: assets/KR6i0420_000.markers.yaml, hash: 'sha256:01d859e4d377cb1acc28a29d5d781fdeec47ff329ae88ba9e7eb5604dca35164'}
+  - {seq: 1, role: markers, filename: assets/KR6i0420_001.markers.yaml, hash: 'sha256:62538e0abe63c01f52b394790b25a3213e69251398fabeb0a824263dd3d89a5a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 六趣輪迴經
   type: juan
   level: 1
-hash: sha256:92b9f90919d5334a97b98e7edff2b5bf6b83fca4a470b7ddef26f9544e5cd48c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ed8ae4d0e109a9fa26a1ae8dc3911b6daab8ed0223159c8abbd6c7fa1db19c3e
