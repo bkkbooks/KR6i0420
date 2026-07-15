@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0420/v1
 canonical_location: https://kanripo.org/bkk/KR6i0420/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 六趣輪迴經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0420_000.yaml, hash: 'sha256:70ec4e4365d2e6ad25f6a98f30eb709f7434153e757db90eaf06f1ef791c0e3b'}
-  - {seq: 1, filename: KR6i0420_001.yaml, hash: 'sha256:4270ce5055ff555867ffde77baad8c1b858e0fb38afc1bb043826688e2141dcf'}
+  - {seq: 1, filename: KR6i0420_001.yaml, hash: 'sha256:802d01a403eeb4f3e9ece61b6ba7123e442175334191ac9fdd96c6e055b67d81'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0420_000.markers.yaml, hash: 'sha256:01d859e4d377cb1acc28a29d5d781fdeec47ff329ae88ba9e7eb5604dca35164'}
-  - {seq: 1, role: markers, filename: assets/KR6i0420_001.markers.yaml, hash: 'sha256:62538e0abe63c01f52b394790b25a3213e69251398fabeb0a824263dd3d89a5a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0420_001.markers.yaml, hash: 'sha256:64fdfb2a618e34ba66a000b8d8c832b5aab57cd4d50e2d3fca0866f8b647f139'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 六趣輪迴經
   type: juan
   level: 1
-hash: sha256:ed8ae4d0e109a9fa26a1ae8dc3911b6daab8ed0223159c8abbd6c7fa1db19c3e
+hash: sha256:7da1a3f1d2006b7ad3d200f4f8592055c192b3d6c90c1766ff6c41882a439ad3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
